@@ -1,0 +1,15 @@
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\bin\Debug\net10.0\aula01.exe
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\bin\Debug\net10.0\aula01.deps.json
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\bin\Debug\net10.0\aula01.runtimeconfig.json
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\bin\Debug\net10.0\aula01.dll
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\bin\Debug\net10.0\aula01.pdb
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\aula01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\aula01.AssemblyInfoInputs.cache
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\aula01.AssemblyInfo.cs
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\aula01.csproj.CoreCompileInputs.cache
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\aula01.sourcelink.json
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\aula01.dll
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\refint\aula01.dll
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\aula01.pdb
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\aula01.genruntimeconfig.cache
+D:\Prof-Marlon\Documents\Repositories\dwa-2026\aula01\obj\Debug\net10.0\ref\aula01.dll
