@@ -414,4 +414,8 @@ psd
 thumb
 sketch
 
+# Ignore AssemblyInfo source files
+**/AssemblyInfo.cs
+**/AssemblyInfo.vb
+
 # End of https://www.toptal.com/developers/gitignore/api/csharp,react
