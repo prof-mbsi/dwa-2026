@@ -50,3 +50,17 @@ function App() {
 }
 
 export default App;
+
+
+
+=LET(inicio; 'Config Grade Horária'!$E$2; fim; 'Config Grade Horária'!$F$2;
+     IFERROR(
+        XLOOKUP("X";
+              INDEX(Planejamento!M:M; inicio):INDEX(Planejamento!M:M; fim);
+              INDEX(Planejamento!$H:$H; inicio):INDEX(Planejamento!$H:$H; fim));
+        XLOOKUP("O";
+              INDEX(Planejamento!M:M; inicio):INDEX(Planejamento!M:M; fim);
+              INDEX(Planejamento!$H:$H; inicio):INDEX(Planejamento!$H:$H; fim);
+              "")
+     )
+    )
